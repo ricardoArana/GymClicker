@@ -6,4 +6,5 @@ Se trata de un juego donde conseguirás puntos a medida que clickes con el rató
 Usado para mejorar los conocimientos en JavaScript
 
 Puedes ejecutarlo desde el siguiente enlace:
-https://ricardoarana.github.io/Parikiclicker/
+
+https://ricardoarana.github.io/GymClicker/
